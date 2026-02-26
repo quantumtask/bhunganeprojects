@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://bhunganeprojects.quantumtask.io/sitemap.xml
