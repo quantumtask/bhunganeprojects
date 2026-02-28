@@ -1,4 +1,4 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://bhunganeprojects.quantumtask.io/sitemap.xml
+Sitemap: https://bhunganeprojectsilanga.org/sitemap.xml
